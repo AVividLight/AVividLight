@@ -23,9 +23,9 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 ---
 
-&emsp;&emsp;I continued developing games throughout high-school, but found a new passion in developing interconnected systems. I started exploring procedural generation and algorithmically-created content, and explored creating game engines of my own instead of games themselves. _LightYear_, my as-yet unfinished interactive fiction engine, is the culmination of my desires at the time; I had moved on from _Unity3D_ and wrote the underlying framework myself using _SDL 2_ and associated libraries.
+&emsp;&emsp;I continued developing games throughout high-school, but found a new passion in developing interconnected systems. I started exploring procedural generation and algorithmically-created content, and began creating a game engine of my own. _LightYear_, my as-yet unfinished interactive fiction engine, is the culmination of those desires at the time; I had moved on from _Unity3D_ and wrote the underlying framework myself using _SDL 2_ and associated libraries. The plan was ambitious (if I may say so myself), involving real-time natural-language processing, support for high-volume dynamic media loading, and comprehensive error recovery and correction. The full details can be found below in Explanations of Projects section, but suffice it to say: I learned a lot and solidified my passion for systems programming. I also began thinking about where to go for college, and what I wanted to do with my life.
 
-I also began thinking about where to go for college, and what I wanted to do with my life.
+&emsp;&emsp;Pursuing software engineering as my career was always my plan, but I wanted to take the opportunity to learn about 
 </details>
 
 <details>
