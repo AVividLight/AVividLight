@@ -2,6 +2,6 @@
 
 ## Embedded Systems Engineer, Passionate Programmer, Life-Long Learner
 
-![header](/Resources/Header/9508.png)
+![header](/Resources/Header/Smaller/0705.png)
 
 Testing...
