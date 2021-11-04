@@ -41,7 +41,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 				</tr>
 			</table>
 		</td>
-		<td>
+		<td valign="top">
 			<table>
 				<tr>
 					<th>Industry Knowledge</th>
@@ -91,7 +91,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 				</tr>
 			</table>
 		</td>
-		<td>
+		<td valign="top">
 			<table>
 				<tr>
 					<th>Interpersonal Skills</th>
@@ -154,7 +154,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 </details>
 
 <details>
-<summary>Explanations of Projects</summary>
+<summary>Overview of Projects</summary>
 
 Text 2
 </details>
