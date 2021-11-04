@@ -7,7 +7,56 @@
 Hello! Thank you for viewing my page. Please expand the sections below to find out a bit more about me, as well as access a guided overview of my projects.
 
 <details>
+<summary>Skills</summary>
+
+### **Top Skills**
+
+* C++
+* C
+* Object-Oriented Design
+
+|Languages||
+|---|---|
+|Objective-C|C#|
+|SQL|Java|
+|HTML|Cascading Style Sheets (CSS)|
+|Assembly Language (x86)||
+
+|Industry Knowledge||
+|---|---|
+|Object Oriented Design|Data Analysis|
+|Strategic Planning|Student Financial Aid|
+
+|Tools & Technologies||
+|---|---|
+|Microsoft Outlook|Microsoft Word|
+|Microsoft Excel|Microsoft Office|
+|SharePoint|Microsoft Power Apps|
+|Microsoft Power Automate|Microsoft Flow|
+|Git|Docker Products|
+|JSON|REST APIs|
+|GitHub||
+
+|Interpersonal Skills||
+|---|---|
+|Project Management|Administration|
+|Leadership|Public Speaking|
+|Organization|Teamwork|
+
+|Other||
+|---|---|
+|Prioritization|Photography|
+|Positivity||
+</details>
+
+<details>
 <summary>More About Me</summary>
+
+### Overview
+
+---
+
+&emsp;&emsp;I started learning programming on my own in middle-school
 
 ### Early Days
 
