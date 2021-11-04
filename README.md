@@ -132,25 +132,31 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 <details>
 <summary>Overview of Projects</summary>
 
-### glEEmail
+### [glEEmail (2021)](https://github.com/Matt-and-Gib/gleemail)
 
 ---
 
 glEEmail started as a way to ...
 
-### KISS SDL contribution
+### [Markov Chain (2018)](https://github.com/AVividLight/Markov-Chain)
+
+---
+
+to-do...
+
+### [KISS SDL contribution (2016)](https://github.com/RobertoMalatesta/kiss_sdl-1)
 
 ---
 
 write me...
 
-### Website for 2CatStudios
+### [Website for 2CatStudios (2016)](https://2catstudios.github.io/main.html)
 
 ---
 
 write me!
 
-### UnityMusic Player
+### [UnityMusicPlayer (2014)](https://github.com/2CatStudios/UnityMusicPlayer)
 
 ---
 
