@@ -15,7 +15,8 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 * Embedded Software Engineering
 * Object-Oriented Design
 
-<table>
+<!--<table cellspacing="0" cellpadding="0" style="border: none;">-->
+<table style="border-collapse: collapse;">
 	<tr>
 		<td>
 			<table>
