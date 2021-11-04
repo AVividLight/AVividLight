@@ -132,5 +132,28 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 <details>
 <summary>Overview of Projects</summary>
 
-Text 2
+### glEEmail
+
+---
+
+glEEmail started as a way to ...
+
+### KISS SDL contribution
+
+---
+
+write me...
+
+### Website for 2CatStudios
+
+---
+
+write me!
+
+### UnityMusic Player
+
+---
+
+write me?
+
 </details>
