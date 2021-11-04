@@ -12,7 +12,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 ### **Top Skills**
 
 * C++
-* C
+* Embedded Software Engineering
 * Object-Oriented Design
 
 <table>
@@ -66,14 +66,6 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 					<th></th>
 				</tr>
 				<tr>
-					<td>Microsoft Office 365</td>
-					<td>Microsoft Outlook</td>
-				</tr>
-				<tr>
-					<td>Microsoft Excel</td>
-					<td>Microsoft Word</td>
-				</tr>
-				<tr>
 					<td>SharePoint</td>
 					<td>Azure</td>
 				</tr>
@@ -120,26 +112,17 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 			</table>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<table>
-				<tr>
-					<th>Other</th>
-					<th></th>
-				</tr>
-				<tr>
-					<td>Prioritization</td>
-					<td>Photography</td>
-				</tr>
-				<tr>
-					<td>Positivity</td>
-					<td></td>
-				</tr>
-			</table>
-		</td>
-		<td></td>
-	</tr>
 </table>
+</details>
+
+<details>
+<summary>Certifications</summary>
+
+[Embedded Systems and C++ (TestDome)](https://app.testdome.com/cert/5a7e81e587284d4eb45a6c25787d0990)
+
+[Embedded Systems and C (TestDome)](https://app.testdome.com/cert/1664d8fd9fb34203b1d26e6ac9cf4113)
+
+[C++, C, C#, JSON, REST APIs (LinkedIn)](https://www.linkedin.com/in/michael-bethke-081ba6140/)
 </details>
 
 <details>
