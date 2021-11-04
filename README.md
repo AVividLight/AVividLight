@@ -15,38 +15,131 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 * C
 * Object-Oriented Design
 
-|Languages||
-|---|---|
-|Objective-C|C#|
-|SQL|Java|
-|HTML|Cascading Style Sheets (CSS)|
-|Assembly Language (x86)||
-
-|Industry Knowledge||
-|---|---|
-|Object Oriented Design|Data Analysis|
-|Strategic Planning|Student Financial Aid|
-
-|Tools & Technologies||
-|---|---|
-|Microsoft Outlook|Microsoft Word|
-|Microsoft Excel|Microsoft Office|
-|SharePoint|Microsoft Power Apps|
-|Microsoft Power Automate|Microsoft Flow|
-|Git|Docker Products|
-|JSON|REST APIs|
-|GitHub||
-
-|Interpersonal Skills||
-|---|---|
-|Project Management|Administration|
-|Leadership|Public Speaking|
-|Organization|Teamwork|
-
-|Other||
-|---|---|
-|Prioritization|Photography|
-|Positivity||
+<table>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<th>Languages</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>C++</td>
+					<td>C</td>
+				</tr>
+				<tr>
+					<td>Objective-C</td>
+					<td>C#</td>
+				</tr>
+				<tr>
+					<td>HTML</td>
+					<td>Cascading Style Sheets (CSS)</td>
+				</tr>
+				<tr>
+					<td>Assembly Language (x86)</td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td>
+			<table>
+				<tr>
+					<th>Industry Knowledge</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>Data Analysis</td>
+					<td>Strategic Planning</td>
+				</tr>
+				<tr>
+					<td>Student Financial Aid</td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<th>Tools & Technologies</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>Microsoft Office 365</td>
+					<td>Microsoft Outlook</td>
+				</tr>
+				<tr>
+					<td>Microsoft Excel</td>
+					<td>Microsoft Word</td>
+				</tr>
+				<tr>
+					<td>SharePoint</td>
+					<td>Azure</td>
+				</tr>
+				<tr>
+					<td>Microsoft Power Apps</td>
+					<td>Microsoft Power BI</td>
+				</tr>
+				<tr>
+					<td>Microsoft Flow</td>
+					<td>Microsoft Power Automate</td>
+				</tr>
+				<tr>
+					<td>Git</td>
+					<td>Docker Products</td>
+				</tr>
+				<tr>
+					<td>JSON</td>
+					<td>REST APIs</td>
+				</tr>
+				<tr>
+					<td>GitHub</td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td>
+			<table>
+				<tr>
+					<th>Interpersonal Skills</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>Project Management</td>
+					<td>Administration</td>
+				</tr>
+				<tr>
+					<td>Leadership</td>
+					<td>Public Speaking</td>
+				</tr>
+				<tr>
+					<td>Organization</td>
+					<td>Teamwork</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<th>Other</th>
+					<th></th>
+				</tr>
+				<tr>
+					<td>Prioritization</td>
+					<td>Photography</td>
+				</tr>
+				<tr>
+					<td>Positivity</td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td></td>
+	</tr>
+</table>
 </details>
 
 <details>
