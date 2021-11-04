@@ -4,7 +4,7 @@
 
 ![header](/Resources/Header/0705.png)
 
-Hello! Thank you for viewing my page. Please expand the sections below to find out a bit more about me, as well as access a guided overview of my projects.
+Hello! Thank you for viewing my page. Please expand the sections below to find out a bit more about me, my skills and certifications, and access a guided overview of my projects.
 
 <details>
 <summary>Skills</summary>
