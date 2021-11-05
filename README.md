@@ -1,7 +1,5 @@
 # Michael Bethke
 
-## Embedded Systems Engineer, Passionate Programmer, Life-Long Learner
-
 ![header](/Resources/Header/0705.png)
 
 Hello! Thank you for viewing my page. Please expand the sections below to find out a bit more about me, my skills and certifications, and access a guided overview of my projects.
@@ -116,11 +114,11 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 <br>
 
-&emsp;&emsp;[Embedded Systems and C++ (TestDome)](https://app.testdome.com/cert/5a7e81e587284d4eb45a6c25787d0990)
+&emsp;[Embedded Systems and C++ (TestDome)](https://app.testdome.com/cert/5a7e81e587284d4eb45a6c25787d0990)
 
-&emsp;&emsp;[Embedded Systems and C (TestDome)](https://app.testdome.com/cert/1664d8fd9fb34203b1d26e6ac9cf4113)
+&emsp;[Embedded Systems and C (TestDome)](https://app.testdome.com/cert/1664d8fd9fb34203b1d26e6ac9cf4113)
 
-&emsp;&emsp;[C++, C, C#, JSON, REST APIs (LinkedIn)](https://www.linkedin.com/in/michael-bethke-081ba6140/)
+&emsp;[C++, C, C#, JSON, REST APIs (LinkedIn)](https://www.linkedin.com/in/michael-bethke-081ba6140/)
 </details>
 
 <details>
@@ -128,9 +126,9 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 <br>
 
-&emsp;&emsp;I started teaching myself programming in middle-school, and immediately fell in love with designing systems and the structured, logical way of interfacing with computers. I've never stopped learning about software engineering and have spent time in game development, application design, embedded software, and scalable cloud-based web apps.
+&emsp;I started teaching myself programming in middle-school, and immediately fell in love with designing systems and the structured, logical way of interfacing with computers. I've never stopped learning about software engineering and have spent time in game development, application design, embedded software, and scalable cloud-based web apps.
 
-&emsp;&emsp;My passion is writing highly-efficient code in mission-critical spaces, but I've found that good programming can get many different things done. C-based languages are my go-to, having spent over six years in C++ alone, as well as years in pure C, C#, and Objective-C. My hobby projects range from video games to embedded applications for Arduino, and my professional experience includes cloud-based web apps using Microsoft Azure and the Office 365 suite.
+&emsp;My passion is writing highly-efficient code in mission-critical spaces, but I've found that good programming can get many different things done. C-based languages are my go-to, having spent over six years in C++ alone, as well as years in pure C, C#, and Objective-C. My hobby projects range from video games to embedded applications for Arduino, and my professional experience includes cloud-based web apps using Microsoft Azure and the Office 365 suite.
 </details>
 
 <details>
