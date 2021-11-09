@@ -64,7 +64,11 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 ---
 
-glEEmail started as a way to ...
+&emsp;glEEmail started as a simple way to get my friend up to speed with C++ and embedded programming on Arduino. At the time, were were waiting on components for an entirely different project to arrive from China, however glEEmail became so much more interesting that we eventually scraped the other project to focus our development efforts.
+
+&emsp;glEEmail is a real-time chat application for Arduino which features tactile Morse Code input, a robust networking layer, and end-to-end encryption. We utilized the Agile concept of Pair Programming for almost the entire project to make sure that every decision was well thought-out, and designed core systems in diagrams and UML prior to implementation for efficiency.
+
+&emsp;Due to the nature of Arduino CPUs, processing time was critical (especially for real-time communication and synchronization), so development focused on efficiency and finding creative ways to optimize performance. At it's core, glEEmail is a finite state machine 
 
 ### [Markov Chain (2018)](https://github.com/AVividLight/Markov-Chain)
 
