@@ -72,7 +72,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 ---
 
-&emsp;My implementation of a Markov Chain lets users generate entirely new text based on a reference input. Running it, you can provide a source body of text which the tool will parse into small pieces, then assemble into a dictionary of natural phrases. After that setup is done, it picks a random place to start in the dictionary, and starts walking through possible combinations, creating sentences and paragraphs.
+&emsp;My implementation of a Markov Chain in C++ lets users procedurally generate entirely new text based on a reference input. Incidentally, it also utilizes a framework I wrote for supporting runtime translation. Anyway, when running the Markov Chain, you provide a source body of text which the tool will parse into small pieces, then assemble into a dictionary of natural phrases. After that setup is done, it picks a random place to start in the dictionary, and starts walking through possible combinations, creating sentences and paragraphs.
 
 &emsp;The key concept in my Markov Chain is parsing a sentence into short phrases and collecting those in a dictionary. As a simple example, if the phrase length is set to two words, this short sentence "_the honey and the bee_" is parsed into the following phrases: "the honey," "honey and," "and the," and "the bee" Once this is done for the full text, you end up with a set of phrases that can be mapped to one another. Using this example, the dictionary would look like:
 
@@ -88,7 +88,9 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 ---
 
-write me...
+&emsp;I was using the SDL2 library as an underlying graphics framework for a C++ project back in 2016, and needed a toolkit to provide interactive on-screen elements in the user-interface layer. I settled on KISS SDL by Roberto Malatesta because it was lightweight and extensible, however as I integrated it, I discovered that it couldn't push high-DPI graphics to my "retina display" MacBook.
+
+&emsp;Since KISS SDL is open source, I dug into the C library, found the functions responsible for graphics loaded from the disk, and rewrote them to be able to safely handle both standard and high-DPI images. I contacted the author in order to contribute back to the project and eventually the changes were integrated into the project. My code has been in the source since then and I was credited for my work in the project README.
 
 ### [Website for 2CatStudios (2016)](https://2catstudios.github.io/main.html)
 
