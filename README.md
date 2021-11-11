@@ -96,7 +96,7 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 ---
 
-&emsp;2Cat Studios was the team name that me and a friend from The Netherlands decided on when we were working together on projects around 2014, and every good team needs a website. 
+&emsp;2Cat Studios was the team name that me and a friend from The Netherlands chose when we were working together on projects around 2014, and every good team needs a website. 2catstudios.github.io was built with response-time and user privacy in mind, so the focus was on primary content with no distractions. It consists of mostly static HTML and CSS, XML for our RSS feed, and light scripts written in JavaScript. The website also utilized Google Analytics to help us track usage and improve our content.
 
 ### [UnityMusicPlayer (2014)](https://github.com/2CatStudios/UnityMusicPlayer)
 
