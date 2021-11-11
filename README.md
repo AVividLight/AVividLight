@@ -2,7 +2,7 @@
 
 ![header](/Resources/Header/0705.png)
 
-Hello! Thank you for viewing my page. Please expand the sections below to find out a bit more about me, my skills and certifications, and access a guided overview of my projects.
+Thank you for viewing my profile. Please expand the sections below to find out a bit more about me, my skills and certifications, and access a guided overview of my projects.
 
 <details>
 <summary>Skills</summary>
@@ -96,7 +96,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 
 ---
 
-write me!
+&emsp;2Cat Studios was the team name that me and a friend from The Netherlands decided on when we were working together on projects around 2014, and every good team needs a website. 
 
 ### [UnityMusicPlayer (2014)](https://github.com/2CatStudios/UnityMusicPlayer)
 
