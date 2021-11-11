@@ -57,7 +57,7 @@ Hello! Thank you for viewing my page. Please expand the sections below to find o
 &emsp;My passion is writing highly-efficient code in mission-critical spaces, but I've found that good programming can get many different things done. C-based languages are my go-to, having spent over six years in C++ alone, as well as years in pure C, C#, and Objective-C. My hobby projects range from video games to embedded applications for Arduino, and my professional experience includes cloud-based web apps using Microsoft Azure and the Office 365 suite.
 </details>
 
-<!--<details>
+<details>
 <summary>Overview of Projects</summary>
 
 ### [glEEmail (2021)](https://github.com/Matt-and-Gib/gleemail)
@@ -104,4 +104,4 @@ write me!
 
 write me?
 
-</details>-->
+</details>
