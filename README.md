@@ -102,6 +102,8 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 ---
 
-write me?
+&emsp;UnityMusicPlayer is a local-disk, audio streaming program with an embedded online store and real-time audio visualization and audio effects. It was written using C#, XML, and GLSL, in the Unity3D engine. I originally designed it to replace iTunes for my personal music library, so its initial functionality was limited to music organization and playback, however user feedback prompted the development of features for live DJ performances, and UMP was used for a least one live event.
+
+&emsp;Later, feedback from musicians lead me to implement a music store which helped promote independent musicians and enable music discovery for listeners. All available downloads were set up with the artists' permission, however some files were encrypted to ensure that playback was limited to UnityMusicPlayer.
 
 </details>
