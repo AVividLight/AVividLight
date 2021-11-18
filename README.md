@@ -84,7 +84,7 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 &emsp;Critically, phrases can traverse from value to key, so once the dictionary is built, traversing is simply following the mapping. When a key with multiple values is encountered (as in key "the" above), the generator makes a decision about which path to follow and continues from there. In our example, Any generated text would be trivial (and likely nonsense), but if a large source text is provided as input, the dictionary can become rich with each key containing numerous values, ultimately producing a much more complex output.
 
-### [KISS SDL contribution (2016)](https://github.com/RobertoMalatesta/kiss_sdl-1)
+### [KISS SDL contribution (2016)](https://github.com/actsl/kiss_sdl)
 
 ---
 
