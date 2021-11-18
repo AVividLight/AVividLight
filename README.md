@@ -88,7 +88,7 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 ---
 
-&emsp;I was using the SDL2 library as an underlying graphics framework for a C++ project back in 2016, and needed a toolkit to provide interactive on-screen elements in the user-interface layer. I settled on KISS SDL by Roberto Malatesta because it was lightweight and extensible, however as I integrated it, I discovered that it couldn't push high-DPI graphics to my "retina display" MacBook.
+&emsp;I was using the SDL2 library as an underlying graphics framework for a C++ project back in 2016, and needed a toolkit to provide interactive on-screen elements in the user-interface layer. I settled on KISS SDL by Tarvo Korrovits because it was lightweight and extensible, however as I integrated it, I discovered that it couldn't push high-DPI graphics to my "retina display" MacBook.
 
 &emsp;Since KISS SDL is open source, I dug into the C library, found the functions responsible for graphics loaded from the disk, and rewrote them to be able to safely handle both standard and high-DPI images. I contacted the author in order to contribute back to the project and eventually the changes were integrated into the project. My code has been in the source since then and I was credited for my work in the project README.
 
