@@ -17,7 +17,6 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 |---|---|
 |C++|C|
 |Objective-C|C#|
-|HTML|CSS|
 
 |Tools & Technologies||
 |---|---|
@@ -64,9 +63,9 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 ---
 
-&emsp;glEEmail is hardware and software: a real-time chat application for Arduino which features tactile Morse Code input, a robust networking layer, and end-to-end encryption. It started as a fun way to get my friend up to speed with C++ and embedded programming on Arduino, so we utilized the Agile concept of Pair Programming for almost the entire project, and designed core systems in diagrams and UML prior to implementation. In addition to writing the code, we also sourced and designed the hardware configuration.
+&emsp;glEEmail is hardware and software: a real-time chat application for Arduino which features tactile Morse Code input, a robust networking layer, and end-to-end encryption. It started as a fun way to get my friend up to speed with C++ and embedded programming, so we utilized the Agile concept of Pair Programming for almost the entire project, and designed core systems in diagrams and UML prior to implementation. In addition to writing the code, we also sourced and designed the hardware.
 
-&emsp;Due to the nature of Arduino CPUs, processing time was critical (especially for real-time communication and synchronization, and accurately parsing Morse Code input), so development focused on efficiency and finding creative ways to optimize performance. At it's core, glEEmail is a finite state machine alternating between getting input, reading and writing on the network, and updating the hardware (LCD and SD card).
+&emsp;Processing time is critical on Arduino, especially for real-time communication and synchronization, and accurately parsing Morse Code input, so development focused on efficiency and finding creative ways to optimize performance. At it's core, glEEmail is a finite state machine alternating between getting input, reading and writing on the network, and updating the hardware (LCD and SD card), but we tried to keep physical components separate in software, so the project utilizes low coupling, respects domains, and avoids hardcoded values.
 
 ### [Markov Chain (2018)](https://github.com/AVividLight/Markov-Chain)
 
