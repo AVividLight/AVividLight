@@ -83,11 +83,11 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 &emsp;Critically, phrases can traverse from value to key, so once the dictionary is built, traversing is simply following the mapping. When a key with multiple values is encountered (as in key "the" above), the generator makes a decision about which path to follow and continues from there. In our example, Any generated text would be trivial (and likely nonsense), but if a large source text is provided as input, the dictionary can become rich with each key containing numerous values, ultimately producing a much more complex output.
 
-### [KISS SDL contribution (2016)](https://github.com/RobertoMalatesta/kiss_sdl-1)
+### [KISS SDL contribution (2016)](https://github.com/actsl/kiss_sdl)
 
 ---
 
-&emsp;I was using the SDL2 library as an underlying graphics framework for a C++ project back in 2016, and needed a toolkit to provide interactive on-screen elements in the user-interface layer. I settled on KISS SDL by Roberto Malatesta because it was lightweight and extensible, however as I integrated it, I discovered that it couldn't push high-DPI graphics to my "retina display" MacBook.
+&emsp;I was using the SDL2 library as an underlying graphics framework for a C++ project back in 2016, and needed a toolkit to provide interactive on-screen elements in the user-interface layer. I settled on KISS SDL by Tarvo Korrovits because it was lightweight and extensible, however as I integrated it, I discovered that it couldn't push high-DPI graphics to my "retina display" MacBook.
 
 &emsp;Since KISS SDL is open source, I dug into the C library, found the functions responsible for graphics loaded from the disk, and rewrote them to be able to safely handle both standard and high-DPI images. I contacted the author in order to contribute back to the project and eventually the changes were integrated into the project. My code has been in the source since then and I was credited for my work in the project README.
 
