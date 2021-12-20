@@ -53,7 +53,7 @@ Thank you for viewing my profile. Please expand the sections below to find out a
 
 &emsp;I started teaching myself programming in middle-school, and immediately fell in love with designing systems and the structured, logical way of interfacing with computers. I've never stopped learning about software engineering and have spent time in game development, application design, embedded software, and scalable cloud-based web apps.
 
-&emsp;My passion is writing highly-efficient code in mission-critical spaces, but I've found that good programming can get many different things done. C-based languages are my go-to, having spent over six years in C++ alone, as well as years in pure C, C#, and Objective-C. My hobby projects range from video games to embedded applications for Arduino, and my professional experience includes cloud-based web apps using Microsoft Azure and the Office 365 suite. I currently work at RFA Engineering as an Embedded Software Engineer.
+&emsp;My passion is writing highly-efficient code in mission-critical spaces, but I've found that good programming can get many different things done. C-based languages are my go-to, having spent many years in C++ alone, as well as pure C, C#, and Objective-C. My hobby projects range from video games to embedded applications for Arduino, and my professional experience includes embedded software for real-time operating systems and cloud-based web apps using Microsoft Azure and the Office 365 suite. I currently work at RFA Engineering as an Embedded Software Engineer.
 </details>
 
 <details>
