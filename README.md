@@ -1,6 +1,6 @@
 # Michael Bethke
 
-![header](/Resources/Header/0705.png)
+![header](/Resources/Header/6713.jpg)
 
 Thank you for viewing my profile. Please expand the sections below to find out a bit more about me, my skills and certifications, and access a guided overview of my projects.
 
